@@ -1,0 +1,23 @@
+{
+  "name": "typescript-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishan-Wijesingha99/TypeScript-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishan-Wijesingha99/TypeScript-crash-course/issues"
+  },
+  "homepage": "https://github.com/Ishan-Wijesingha99/TypeScript-crash-course#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
